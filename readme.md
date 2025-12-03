@@ -12,7 +12,7 @@ Each day includes:
 .
 ├── input/
 │   ├── day_x.csv
-│   └── day_y.csv
+│   ├── day_y.csv
 │   └── ...
 ├── day_x.ipynb
 ├── day_y.ipynb
@@ -23,7 +23,7 @@ Each day includes:
 ## Notes
 
 - Notebooks contain the solutions for Part 1 and Part 2.
-- Inputs are stored as CSV files for consistent loading.
+- Inputs are stored as CSV files for consistent loading but are not included in the repository as it is not allowed to redistribute the input.
 - Any standard Jupyter setup can run the notebooks.
 
 ## Advent of Code
